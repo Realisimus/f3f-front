@@ -1,0 +1,21 @@
+{
+  "name": "f3f-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fetch": "^1.1.0",
+    "react": "^16.3.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-bootstrap-table-next": "^0.1.10",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-table": "^6.8.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

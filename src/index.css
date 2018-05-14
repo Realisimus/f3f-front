@@ -1,0 +1,17 @@
+.body {
+    border: 2px solid #777;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.block {
+  width: 640px;
+  height: 320px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -160px 0 0 -320px;
+  background: #60a839;
+
+}
